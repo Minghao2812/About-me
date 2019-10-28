@@ -9,7 +9,7 @@ MSc in AI & Digital Media (expected graduation date: 2020/5)
 #### Communication University of China (211)
 B.Eng. with Triple A Graduates in Automation.
 
-<br></br>
+
 ## ACADEMIC TRAINING & COURSES
 - Big Data Management and Analytics
 - Data Mining and Knowledge Discovery for Digital Media
@@ -19,11 +19,11 @@ B.Eng. with Triple A Graduates in Automation.
 - Advanced Mathematics
 - Linear Algebra
 
-<br></br>
+
 ## RESEARCH INTERESTS
 After trial and error during my undergraduate study, I have found passion to discover programming further especially in artificial intelligence field including computational intelligence, intelligent visual computing and pattern recognition, through further study with an expert at a remarkable institution. I love the feeling of solving problems with codes and I want to improve people’s life by programming.
 
-<br></br>
+
 ## RESEARCH EXPERIENCE
 #### National Undergraduate Electronic Design Contest (Beijing Area)
 *Group Leader*
@@ -33,15 +33,15 @@ After trial and error during my undergraduate study, I have found passion to dis
 
 #### Engineering Center of Digital Audio & Video (State Key Laboratory) and Broadcasting and Anchoring School, Communication University of China
 *Product Manager*
-- Launched this project on speech evaluation mini program. 
+- Launched a project to develop a “speech evaluation mini program”. 
 - Recruited group member and applied for funding.
-- Designed function and interface of this mini program.
+- Designed function and interface for this mini program.
 
 #### Engineering Center of Digital Audio & Video (State Key Laboratory)
 *Student Research Assistant*
 - Assisted professor to edit technical documentation.
 
-<br></br>
+
 ## SKILLS
 - Programming language: C/C++/scriping language (Python)
 - Circuit design: Multisim, Altium Designer
@@ -49,7 +49,7 @@ After trial and error during my undergraduate study, I have found passion to dis
 - MS Office
 - Skills of documentary photography (topic selecting, shooting, editing)
 
-<br></br>
+
 ## ADDITIONAL EXPERIENCE
 - I was named the "Excellent Journalist of the Year" 
 - As a student union’s member in department of media, I released several reports.
