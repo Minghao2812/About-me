@@ -21,7 +21,7 @@ B.Eng. with Triple A Graduates in Automation.
 
 
 ## RESEARCH INTERESTS
-After trial and error during my undergraduate study, I have found passion to discover programming further especially in artificial intelligence field including computational intelligence, intelligent visual computing and pattern recognition, through further study with an expert at a remarkable institution. I love the feeling of solving problems with codes and I want to improve people’s life by programming.
+After trial and error during my undergraduate study, I have found passion to discover programming further especially in *artificial intelligence field* including *computational intelligence*, *intelligent visual computing* and *pattern recognition*, through further study with an expert at a remarkable institution. I love the feeling of solving problems with codes and I want to improve people’s life by programming.
 
 
 ## RESEARCH EXPERIENCE
