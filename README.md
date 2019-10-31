@@ -50,6 +50,12 @@ After trial and error during my undergraduate study, I have found passion to dis
 - Skills of documentary photography (topic selecting, shooting, editing)
 
 
+## LANGUAGE
+-	Mandarin(native)
+- English (IELTS overall 6.5; reading 7.0; speaking 7.0; listening 6.5; writing 6.0)
+- Cantonese(learning)
+
+
 ## ADDITIONAL EXPERIENCE
 - I was named the "Excellent Journalist of the Year" 
 - As a student union’s member in department of media, I released several reports.
