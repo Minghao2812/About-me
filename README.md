@@ -43,9 +43,10 @@ After trial and error during my undergraduate study, I have found passion to dis
 
 
 ## SKILLS
-- Programming language: C/C++/scriping language (Python)
+- Programming language: C/C++/scripting language (Python, R)
+- Database management using SQL
+- Data mining and knowledge discovery using scripting language
 - Circuit design: Multisim, Altium Designer
-- Language: Mandarin(native), English (professional proficiency), Cantonese(learning)
 - MS Office
 - Skills of documentary photography (topic selecting, shooting, editing)
 
