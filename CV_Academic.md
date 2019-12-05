@@ -1,6 +1,6 @@
  # Wang Minghao   
 
-*+86-15966652812 · +852-93271665 · 19454414@life.hkbu.edu.hk*
+*+86-15966652812 · +852-93271665 · wangminghao@cuc.edu.cn*
 <br></br>
 
 ## EDUCATION
