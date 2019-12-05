@@ -38,7 +38,7 @@ After trial and error during my undergraduate study, I have found passion to dis
 - Recruited group member and applied for funding.
 - Designed function and interface for this mini program.
 
-#### Engineering Center of Digital Audio & Video (State Key Laboratory)
+#### Engineering Center of Digital Audio & Video (State Key Laboratory), Communication University of China
 *Student Research Assistant*
 - Assisted professor to edit technical documentation.
 
