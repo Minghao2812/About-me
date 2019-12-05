@@ -36,7 +36,7 @@ B.Eng. in Automation, GPA top18%
 
 
 ## RESEARCH EXPERIENCE
-#### Engineering Center of Digital Audio & Video (State Key Laboratory)
+#### Engineering Center of Digital Audio & Video (State Key Laboratory), Communication University of China
 *Student Research Assistant*
 - Assisted professor to edit technical documentation.
 
