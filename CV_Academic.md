@@ -1,13 +1,14 @@
- # Minghao Wang  
+ # Wang Minghao   
 
-*9327-1665 · 19454414@life.hkbu.edu.hk*
+*+86-15966652812 · +852-93271665 · 19454414@life.hkbu.edu.hk*
 <br></br>
 
 ## EDUCATION
 #### Hong Kong Baptist University
 MSc in AI & Digital Media (expected graduation date: 2020/5)
 #### Communication University of China (211)
-B.Eng. with Triple A Graduates in Automation.
+B.Eng. in Automation, GPA top18%
+* Distinguished Graduate
 
 
 ## ACADEMIC TRAINING & COURSES
