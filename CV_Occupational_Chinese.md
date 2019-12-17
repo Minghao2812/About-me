@@ -19,7 +19,8 @@
 
 
 ## 作品集
-[Twitter标签分析器](https://github.com/Minghao2812/Twitter_Analyst_in_R)  
+[失落的难民]()
+[Twitter标签分析器](https://github.com/Minghao2812/Twitter_Analyst_in_R)（[视频展示](https://www.youtube.com/watch?v=98ATnAcXqE0&t=39s) ）   
 [中美贸易摩擦关键时间点物价分析](https://github.com/Minghao2812/Have-you-noticed-the-price-fluctuation-recently/blob/master/Minghao_Wang-report.pdf)  
 [烂番茄电影网爬虫](https://github.com/Minghao2812/Web_Scraper_in_Python/blob/master/scraper.ipynb)
 
