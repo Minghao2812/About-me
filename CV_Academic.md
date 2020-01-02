@@ -19,15 +19,9 @@ B.Eng. in Automation
 - Analog Electronic Technology
 
 
-## RESEARCH INTERESTS
-After try and error during my undergraduate study, I have found passion to discover our world further especially in *Natural Language Processing*, *Computer Vision* fields. I love the feeling when I solve problems with numbers and codes and I want to improve people’s life by programming.
-*artificial intelligence field* including *computational intelligence*, *intelligent visual computing* and *pattern recognition*, through further study with an expert at a remarkable institution. 
-
-
 ## PORTFOLIO
 [Which One Is Correct? The Decision-Making Process Biased by Media and People’s Existing Memory](https://drive.google.com/file/d/1Dtc3FicGQeQobDSu7OhadxSre9vz4LeG/view?usp=sharing)  
 [Twitter Analyst in R](https://github.com/Minghao2812/Twitter_Analyst_in_R)  
-
 
 
 ## RESEARCH EXPERIENCE
